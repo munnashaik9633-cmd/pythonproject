@@ -1,0 +1,18 @@
+CAMPUS FEEDBACK LENS — START HERE
+
+1. Install XAMPP.
+2. Start Apache and MySQL.
+3. Create database campus_feedback_lens in phpMyAdmin.
+4. Import database/schema.sql.
+5. Check config/config.php database credentials.
+6. Put this folder in your web server document root.
+7. Run setup.php once in your browser.
+8. Open index.php.
+9. Delete setup.php after setup.
+
+Demo logins:
+Student: student / student123
+Faculty: faculty / faculty123
+Admin: admin / admin123
+
+Read README.md and docs/Project-Report.pdf for details.
